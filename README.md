@@ -4,6 +4,7 @@ This software code provides a model of rabbit cardiac action potential described
 The code itself is provided in the two files (representing two types of stimulation: current clamp or voltage clamp):
 
 PR-2016-with-stimulus.cellml for current clamp
+
 PR-2016-with-holding.cellml for voltage clamp
 
 
