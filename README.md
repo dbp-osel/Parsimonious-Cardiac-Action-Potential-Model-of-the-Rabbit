@@ -5,7 +5,7 @@ The code itself is provided in the two files (representing two types of stimulat
 
 PR-2016-with-stimulus.cellml for current clamp & PR-2016-with-holding.cellml for voltage clamp
 
-# Tool Reference
+# Regulatory Science Tool (RST) Reference
 •	RST Reference Number: RST24CV06.01  
 •	Date of Publication: 08/08/2023  
 •	Recommended Citation: U.S. Food and Drug Administration. (2023). Parsimonious Cardiac Action Potential Model of the Rabbit (RST24CV06.01). https://cdrh-rst.fda.gov/parsimonious-cardiac-action-potential-model-rabbit  
